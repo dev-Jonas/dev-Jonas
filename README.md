@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-Jonas&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Jonas&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonascarvalh&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascarvalh&theme=dark">
 </div>
 
-![Snake animation](https://github.com/dev-Jonas/dev-Jonas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dev-Jonas/jonascarvalh/blob/output/github-contribution-grid-snake.svg)
