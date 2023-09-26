@@ -1,10 +1,7 @@
-<p align="center">
-    <img = src="https://discord.c99.nl/widget/theme-4/438869121183121408.png">
-</p>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonascarvalh&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascarvalh&theme=dark">
-</div>
-
-![Snake animation](https://github.com/jonascarvalh/jonascarvalh/blob/output/github-contribution-grid-snake.svg)
+## Hi there 👾
+- 💻 I currently work on a technical agreement between UEMA and TJMA.
+- 🐍 My current focus is on Python.
+- 📶 I have knowledge in embedded systems (ESP32 & MQTT).
+  
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=c,py,django,html,css,bootstrap,mysql)](https://skillicons.dev)
